@@ -1,3 +1,16 @@
+# Spaceplanes
+
+### Description
+Note: at the moment, only controller input is supported
+Instructions: Press a to join each controller, then press y to start the game.
+Controls:
+  - Left joystick (vertical): Forward/backward acceleration
+  - Left joystick (horizontal): Yaw (side-to-side)
+  - Right joystick (vertical): Pitch (up-and-down)
+  - Right joystick (horizontal): Roll (spin)
+  - Right trigger: Fire Laser
+  - Left trigger: Brake
+
 ### Assets used
 - *FREE* Skyboxes - Space
   - by Dogmatic
