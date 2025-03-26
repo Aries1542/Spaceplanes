@@ -2,7 +2,9 @@
 
 ### Description
 Note: at the moment, only controller input is supported
+
 Instructions: Press a to join each controller, then press y to start the game.
+
 Controls:
   - Left joystick (vertical): Forward/backward acceleration
   - Left joystick (horizontal): Yaw (side-to-side)
