@@ -1,6 +1,9 @@
 # Spaceplanes
 
 ### Description
+
+#### Controls
+
 Note: at the moment, only controller input is supported
 
 Instructions: Press a to join each controller, then press y to start the game.
@@ -12,6 +15,11 @@ Controls:
   - Right joystick (horizontal): Roll (spin)
   - Right trigger: Fire Laser
   - Left trigger: Brake
+
+#### Screenshots
+![Screenshot of Main menu](Screenshots/Main-Menu.png)
+![Screenshot of Space](Screenshots/Space-1.png)
+![Screenshot of Space](Screenshots/Space-2.png)
 
 ### Assets used
 - *FREE* Skyboxes - Space
