@@ -1,6 +1,7 @@
 # Spaceplanes
 
 ### Description
+A dogfighting game set in space, used to learn the basics of Unity and game development. Players compete by blasting each other with lasers that both damage the other player and can knock them around. Spaceplanes features local multiplayer, a dynamic physics based environment, and flight controls with a high skill ceiling so players can improve the more they play. 
 
 #### Controls
 
